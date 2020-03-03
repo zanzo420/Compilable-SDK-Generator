@@ -1,0 +1,7 @@
+     | - Download the full SoT-SDK from:  https://github.com/pubgsdk/SoT-SDK |
+     |                                                                       |
+     | - Move the 'SDK' folder from the SoT-SDK to the 'INPUT' folder        |
+     |   located in the same directory as this script.                       |
+     |                                                                       |
+     | - Open a bash console window in the same folder as this script, then  |
+     |   type 'bash CompilableSDKGenerator.sh' and press 'ENTER'             |

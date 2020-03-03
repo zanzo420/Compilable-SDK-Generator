@@ -1,0 +1,7 @@
+SoT_Athena_functions.cpp
+SoT_Basic.cpp
+SoT_CoreUObject_functions.cpp
+SoT_DebugMenu_functions.cpp
+SoT_Engine_functions.cpp
+SoT_Maths_functions.cpp
+SoT_UMG_functions.cpp

@@ -1,0 +1,3 @@
+echo "+--Compilable-SDK-Generator-------------------------------------------+"
+echo "|	          Press 'ENTER' to Generate Compilable SoT-SDK...           |"
+echo "+---------------------------------------------------------------------+"
